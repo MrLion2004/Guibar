@@ -1,0 +1,6 @@
+main: ru.lion.Main
+version: 1.0
+
+commands:
+  gui:
+    usage: /gui
